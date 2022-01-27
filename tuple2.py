@@ -1,0 +1,8 @@
+t = (1, 2, 3)
+u = t + (4, 5, 6)
+v = (u, 7, 8, 9)
+print(t)
+print(u)
+print(v)
+z = (t, u)
+print(z)
